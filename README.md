@@ -51,7 +51,7 @@ In this project I tried segmenting <b>Transition</b> and <b>Peripheral</b> Zones
 - Per-Subject Dices STD = 0.044
 - Per-Subject Dices Best = 0.78
 
-![Sample Email](https://github.com/homayoonalimohammadi/Prostate-Segmentation/Results/blob/main/media/Label-1.jpg?raw=true)
+![Label 1](https://github.com/HomayoonAlimohammadi/Prostate-Segmentation/blob/main/Results/Label-1.jpg?raw=true)
 
 
 ## Label 2: 
@@ -63,5 +63,5 @@ In this project I tried segmenting <b>Transition</b> and <b>Peripheral</b> Zones
 - Per-Subject Dices Best = 0.90
 
 
-![Sample Email](https://github.com/homayoonalimohammadi/Prostate-Segmentation/Results/blob/main/media/Label-2.jpg?raw=true)
+![Label 2](https://github.com/HomayoonAlimohammadi/Prostate-Segmentation/blob/main/Results/Label-2.jpg?raw=true)
 
